@@ -144,9 +144,9 @@ Daftar artikel yang saya publikasikan di Blogspot mengenai pembelajaran Data Ana
 
 | Tanggal | Judul Artikel | Topik |
 |---------|--------------|-------|
-| 24 Juni 2026 | [Big Data dan Data Lake](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html) | Big Data, Data Lake, Ekosistem Data |
-| 23 Juni 2026 | [Tahapan Analisis Data: Dari Data Mentah Menjadi Insight yang Bernilai](https://sandyajuniordataanalyst.blogspot.com/2026/06/tahapan-analisis-data-dari-data-mentah.html) | Data Analysis Process |
-| 24 Juni 2026 | [Apa Itu Data Analyst?](https://sandyajuniordataanalyst.blogspot.com/2026/06/apa-itu-data-analyst.html) | Data Analyst Role |
+| 25 Juni 2026 | [Big Data dan Data Lake](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html) | Big Data, Data Lake, Ekosistem Data |
+| 24 Juni 2026 | [Tahapan Analisis Data: Dari Data Mentah Menjadi Insight yang Bernilai](https://sandyajuniordataanalyst.blogspot.com/2026/06/tahapan-analisis-data-dari-data-mentah.html) | Data Analysis Process |
+| 23 Juni 2026 | [Apa Itu Data Analyst?](https://sandyajuniordataanalyst.blogspot.com/2026/06/apa-itu-data-analyst.html) | Data Analyst Role |
 
 ---
 
