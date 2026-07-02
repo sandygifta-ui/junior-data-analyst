@@ -144,6 +144,7 @@ Daftar artikel yang saya publikasikan di Blogspot mengenai pembelajaran Data Ana
 
 | Tanggal | Judul Artikel | Topik |
 |---------|--------------|-------|
+| 26 Juni 2026 | [Structured vs Unstructured Data](https://sandyajuniordataanalyst.blogspot.com/2026/06/structured-vs-unstructured-data.html) | Structured Data, Unstructured Data, Data Lake, AI |
 | 25 Juni 2026 | [Big Data dan Data Lake](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html) | Big Data, Data Lake, Ekosistem Data |
 | 24 Juni 2026 | [Tahapan Analisis Data: Dari Data Mentah Menjadi Insight yang Bernilai](https://sandyajuniordataanalyst.blogspot.com/2026/06/tahapan-analisis-data-dari-data-mentah.html) | Data Analysis Process |
 | 23 Juni 2026 | [Apa Itu Data Analyst?](https://sandyajuniordataanalyst.blogspot.com/2026/06/apa-itu-data-analyst.html) | Data Analyst Role |
@@ -152,8 +153,20 @@ Daftar artikel yang saya publikasikan di Blogspot mengenai pembelajaran Data Ana
 
 ## 📖 Article Summaries
 
+### 📌 Structured vs Unstructured Data
+**Tanggal:** 26 Juni 2026 | **[Baca Selengkapnya →](https://sandyajuniordataanalyst.blogspot.com/2026/06/structured-vs-unstructured-data.html)**
+
+Artikel ini membahas perbedaan mendasar antara data terstruktur dan tidak terstruktur, bagaimana keduanya ditampung dalam Data Lake, serta bagaimana teknologi AI seperti Machine Learning, Deep Learning, dan NLP mengubah data mentah tersebut menjadi sesuatu yang bermanfaat.
+
+**Topik yang dibahas:**
+- Perbedaan Structured Data dan Unstructured Data
+- Konsep Semi-Structured Data (JSON, XML)
+- Peran Data Lake sebagai tempat penampungan data
+- Cara kerja Machine Learning, Deep Learning, dan NLP dalam mengolah data
+- Alur data dari data mentah hingga menjadi AI yang siap digunakan
+
 ### 📌 Big Data dan Data Lake
-**Tanggal:** 24 Juni 2026 | **[Baca Selengkapnya →](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html)**
+**Tanggal:** 25 Juni 2026 | **[Baca Selengkapnya →](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html)**
 
 Artikel ini membahas ekosistem data modern mulai dari konsep Big Data, karakteristik 5V (Volume, Velocity, Variety, Veracity, Value), hingga peran Data Lake sebagai infrastruktur penyimpanan data skala besar.
 
