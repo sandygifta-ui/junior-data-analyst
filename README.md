@@ -1,225 +1,31 @@
-# 🚀 Junior Data Analyst Journey
+# 📊 Junior Data Analyst Portfolio
 
-Selamat datang di repositori **Junior Data Analyst Journey — Sandya Gifta**.
+![Progress](https://img.shields.io/badge/progress-Week%209%20%2F%2012-9C4F6B?style=flat-square)
+![Program](https://img.shields.io/badge/program-Edusoft%20Center-4A6FA5?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
-Repositori ini merupakan dokumentasi perjalanan belajar, pengembangan keterampilan, serta portofolio selama mengikuti **Program Simulasi Industri Data Analyst**. Seluruh proses pembelajaran dirancang menggunakan pendekatan lingkungan kerja industri, sehingga setiap tugas, proyek, dan dokumentasi disusun mengikuti alur kerja profesional yang umum digunakan dalam bidang data.
+Portofolio tugas dari program **Simulasi Industri Junior Data Analyst** di PT Edusoft Center Teknologi — perjalanan 12 minggu dari data cleaning, exploratory data analysis (EDA), hingga problem solving berbasis data untuk kasus bisnis nyata.
 
----
-
-## 👨‍💻 About Me
-
-Saya adalah peserta Program Simulasi Industri Data Analyst yang sedang menjalani kegiatan Praktik Kerja Lapangan (PKL) pada bidang data dan analitik. Saya memiliki minat dalam mengolah data mentah menjadi informasi yang bernilai untuk mendukung proses pengambilan keputusan.
-
-Melalui proses pembelajaran dan pengalaman praktik, saya berfokus untuk mengembangkan kemampuan analisis data secara end-to-end, mulai dari pengumpulan data, pembersihan data, eksplorasi data, visualisasi, hingga penyampaian insight kepada audiens non-teknis.
-
-Repositori ini menjadi dokumentasi perjalanan belajar, pengembangan keterampilan, serta kumpulan proyek yang dikerjakan selama proses pembelajaran dan praktik industri.
+> Dibimbing oleh **Pak Khomarudin** sebagai mentor program.
 
 ---
 
-## 🎯 Repository Objectives
+## 🗓️ Progress Sprint
 
-Repositori ini dibuat dengan tujuan untuk:
-
-- Mendokumentasikan proses pembelajaran secara terstruktur
-- Menyimpan hasil latihan dan proyek
-- Membangun portofolio yang dapat diverifikasi
-- Menerapkan alur kerja Data Analyst sesuai standar industri
-- Menjadi media evaluasi dan pengembangan keterampilan secara berkelanjutan
-
----
-
-## 🛠 Skills & Competencies
-
-Kompetensi yang dikembangkan selama program:
-
-### Technical Skills
-
-- **SQL**
-  - Query dasar hingga lanjutan
-  - JOIN multi-tabel
-  - Fungsi agregasi
-  - Analisis berbasis database
-
-- **Data Handling & Preparation**
-  - Data cleaning
-  - Data transformation
-  - Penanganan missing values
-  - Data preprocessing
-
-- **Exploratory Data Analysis (EDA)**
-  - Analisis pola data
-  - Analisis tren
-  - Metrik dasar
-  - Insight discovery
-
-- **Dashboard & Visualization**
-  - Visualisasi data
-  - Dashboard interaktif
-  - Penyajian informasi visual
-
-### Industry Skills
-
-- Problem Solving
-- Data Thinking
-- Documentation
-- Data Storytelling
-- Git Version Control
-
-### Professional Skills
-
-- Team Collaboration
-- Time Management
-- Communication Skills
-- Work Ethics
+| Sprint | Topik | Status |
+|---|---|---|
+| Week 1–2 | Orientasi & Setup | ✅ Selesai |
+| Week 3–4 | Data Collection & Understanding | ✅ Selesai |
+| Week 5 | Data Cleaning & Preparation | ✅ Selesai |
+| Week 6–7 | Exploratory Data Analysis | ✅ Selesai |
+| Week 8–9 | Business Question & SQL | ✅ Selesai |
+| **Week 10** | **Reporting & Data Storytelling** | 🔄 Sedang berjalan |
+| Week 11 | Final Project | ⏳ Belum dimulai |
+| Week 12 | Presentasi Akhir & Evaluasi | ⏳ Belum dimulai |
 
 ---
 
-## 🗺 Learning Roadmap
-
-Roadmap pembelajaran selama program simulasi industri:
-
-- [ ] Week 1 — Industry Orientation & Tools Setup
-- [ ] Week 2 — Data Collection & Understanding
-- [ ] Week 3 — Data Cleaning & Preparation
-- [ ] Week 4 — Exploratory Data Analysis
-- [ ] Week 5 — Problem Solving & Business Questions
-- [ ] Week 6 — Reporting & Data Storytelling
-- [ ] Week 7 — Final Project & Portfolio Development
-- [ ] Week 8 — Final Presentation & Evaluation
-
----
-
-## 📂 Repository Structure
-
-```
-Junior-Data-Analyst-Journey/
-│
-├── Articles/
-│   └── Learning notes and references
-│
-├── SQL/
-│   └── SQL practice and query collection
-│
-├── Dataset/
-│   └── Raw and processed datasets
-│
-├── Dashboard/
-│   └── Dashboard files and screenshots
-│
-├── Reports/
-│   └── Analysis reports
-│
-├── Presentation/
-│   └── Presentation slides
-│
-├── Projects/
-│   └── Mini projects and final projects
-│
-└── Roadmap/
-    └── Learning documentation
-```
-
----
-
-## 📈 Current Progress
-
-**Current Status:**
-
-🚀 Sedang mengikuti kegiatan Simulasi Industri dan PKL
-
-Aktivitas yang sedang berjalan:
-
-- Repository structure setup
-- Dokumentasi dan tracking progress pembelajaran
-- Latihan analisis data
-- Pengembangan proyek dan portofolio
-
----
-
-## 📝 Latest Articles
-
-Daftar artikel yang saya publikasikan di Blogspot mengenai pembelajaran Data Analytics. *(Artikel akan terus diperbarui selama proses pembelajaran berlangsung)*
-
-### 🗓️ Juni 2026
-
-| Tanggal | Judul Artikel | Topik |
-|---------|--------------|-------|
-| 26 Juni 2026 | [Structured vs Unstructured Data](https://sandyajuniordataanalyst.blogspot.com/2026/06/structured-vs-unstructured-data.html) | Structured Data, Unstructured Data, Data Lake, AI |
-| 25 Juni 2026 | [Big Data dan Data Lake](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html) | Big Data, Data Lake, Ekosistem Data |
-| 24 Juni 2026 | [Tahapan Analisis Data: Dari Data Mentah Menjadi Insight yang Bernilai](https://sandyajuniordataanalyst.blogspot.com/2026/06/tahapan-analisis-data-dari-data-mentah.html) | Data Analysis Process |
-| 23 Juni 2026 | [Apa Itu Data Analyst?](https://sandyajuniordataanalyst.blogspot.com/2026/06/apa-itu-data-analyst.html) | Data Analyst Role |
-
----
-
-## 📖 Article Summaries
-
-### 📌 Structured vs Unstructured Data
-**Tanggal:** 26 Juni 2026 | **[Baca Selengkapnya →](https://sandyajuniordataanalyst.blogspot.com/2026/06/structured-vs-unstructured-data.html)**
-
-Artikel ini membahas perbedaan mendasar antara data terstruktur dan tidak terstruktur, bagaimana keduanya ditampung dalam Data Lake, serta bagaimana teknologi AI seperti Machine Learning, Deep Learning, dan NLP mengubah data mentah tersebut menjadi sesuatu yang bermanfaat.
-
-**Topik yang dibahas:**
-- Perbedaan Structured Data dan Unstructured Data
-- Konsep Semi-Structured Data (JSON, XML)
-- Peran Data Lake sebagai tempat penampungan data
-- Cara kerja Machine Learning, Deep Learning, dan NLP dalam mengolah data
-- Alur data dari data mentah hingga menjadi AI yang siap digunakan
-
-### 📌 Big Data dan Data Lake
-**Tanggal:** 25 Juni 2026 | **[Baca Selengkapnya →](https://sandyajuniordataanalyst.blogspot.com/2026/06/big-data-dan-data-lake.html)**
-
-Artikel ini membahas ekosistem data modern mulai dari konsep Big Data, karakteristik 5V (Volume, Velocity, Variety, Veracity, Value), hingga peran Data Lake sebagai infrastruktur penyimpanan data skala besar.
-
-**Topik yang dibahas:**
-- Apa itu Big Data dan konsep 5V
-- Sumber-sumber Big Data (IoT, e-commerce, media sosial, keuangan, kesehatan)
-- Apa itu Data Lake dan cara kerjanya
-- Perbedaan Data Lake vs Data Warehouse
-- Tools populer: Apache Spark, Hadoop, Kafka, AWS S3, Google BigQuery
-
-> *"Data Lake seperti sebuah danau besar — semua jenis data mengalir masuk dari berbagai sumber dan tersimpan di sana, siap diambil kapanpun diperlukan."*
-
----
-
-## 📊 Expected Outputs
-
-Target output selama program:
-
-- End-to-end data project
-- Interactive dashboard
-- Analysis report
-- GitHub repository
-- Case study presentation
-
----
-
-## 🔮 Future Projects
-
-Beberapa proyek yang direncanakan:
-
-### E-Commerce Sales Dashboard
-Analisis performa penjualan dan identifikasi peluang bisnis.
-
-### Customer Segmentation Analysis
-Analisis karakteristik pelanggan untuk mendukung strategi pemasaran.
-
-### Education Data Dashboard
-Dashboard evaluasi dan analisis data pendidikan.
-
-### Service Performance Analysis
-Analisis KPI layanan dan rekomendasi berbasis data.
-
----
-
-## 🤝 Connect With Me
-
-Terima kasih telah mengunjungi repositori ini!
-
-Saya terbuka terhadap saran, masukan, diskusi, serta peluang kolaborasi dalam bidang Data Analytics.
-
-📝 **Blog:** [sandyajuniordataanalyst.blogspot.com](https://sandyajuniordataanalyst.blogspot.com/)
-
----
-
-> *"Without data, you're just another person with an opinion."*
-> — W. Edwards Deming
+## 🗂️ Struktur Repo
