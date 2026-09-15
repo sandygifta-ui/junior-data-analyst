@@ -22,9 +22,9 @@ Portofolio tugas dari program **Simulasi Industri Junior Data Analyst** di PT Ed
 | Week 5 | Data Cleaning & Preparation | ✅ Selesai |
 | Week 6–7 | Exploratory Data Analysis | ✅ Selesai |
 | Week 8–9 | Business Question & SQL | ✅ Selesai |
-| **Week 10** | **Reporting & Data Storytelling** | 🔄 Sedang berjalan |
-| Week 11 | Final Project | ⏳ Belum dimulai |
-| Week 12 | Presentasi Akhir & Evaluasi | ⏳ Belum dimulai |
+| Week 10 | Reporting & Data Storytelling | ✅ Selesai |
+| Week 11 | Final Project | ✅ Selesai |
+| **Week 12** | **Presentasi Akhir & Evaluasi** | 🔄 Sedang berjalan |
 
 ---
 
